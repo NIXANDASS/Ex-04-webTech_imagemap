@@ -173,6 +173,6 @@ and experienced faculty with commitment to serve the college in achieving its go
 ![valid](https://user-images.githubusercontent.com/118781418/215187640-763eb584-75a4-4f81-a9cf-1ff12d2875c0.png)
 
 # Result:
-The program for implementing image map is execued successfull
+The program for implementing image map is execued successfully
 
 

@@ -157,19 +157,20 @@ and experienced faculty with commitment to serve the college in achieving its go
 ```
 
 # Output:
-![Output](./screenshots/ex1.png)
+![ex1](https://user-images.githubusercontent.com/118781418/215187498-7383ae2c-7190-4c51-889b-6fb9ff318554.png)
 
-![Output](./screenshots/4.png)
+![4](https://user-images.githubusercontent.com/118781418/215187531-66ff3c41-8abe-4689-a0da-747d519085f5.png)
 
-![Output](./screenshots/3.png)
+![3](https://user-images.githubusercontent.com/118781418/215187553-e4c33893-8f1f-4e3c-8eef-b88569d4d2b8.png)
 
-![Output](./screenshots/1.png)
+![1](https://user-images.githubusercontent.com/118781418/215187561-9f3ea905-3db9-455e-98dc-0593da15d462.png)
 
-![Output](./screenshots/2.png)
+![2](https://user-images.githubusercontent.com/118781418/215187570-ddba9242-0f1c-48ed-87ce-f56415141784.png)
 
 ## HTML VALIDATOR
 
-![HTML Validator](./screenshots/valid.png)
+
+![valid](https://user-images.githubusercontent.com/118781418/215187640-763eb584-75a4-4f81-a9cf-1ff12d2875c0.png)
 
 # Result:
 The program for implementing image map is execued successfull
